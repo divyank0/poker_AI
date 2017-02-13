@@ -1,0 +1,13 @@
+variables:
+	cards with different incremental value
+	suits
+	trump
+	different players, with different goals
+	turn
+	
+	
+algos
+:	let say cards of only one suits is available:
+	2 players with turn of winning agent of last trick
+	what is expected return based on distribution of cards?
+	
